@@ -48,6 +48,8 @@ uvicorn app.main:app --reload --port 8000
    python scripts/generate_telemetry.py
    ```
 4. Access the **Mini-SIEM Command Center** under **Dashboards** to view live threat graphs.
+   <img width="1860" height="837" alt="image" src="https://github.com/user-attachments/assets/441377ab-bb3c-4d7f-8f46-629e85ae6d8e" />
+
 
 ---
 
